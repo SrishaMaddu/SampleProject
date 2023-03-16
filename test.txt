@@ -1,2 +1,2 @@
 Hello World - Master
-Test sample project
+Testing sample project
